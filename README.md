@@ -23,6 +23,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHFCosta&layout=compact&langs_count=16&theme=gotham&locale=pt-br"
   />
   <br>
+</div>
 
 ##
 
