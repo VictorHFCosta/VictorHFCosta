@@ -7,9 +7,11 @@
 
 
 ##
+<div align="center">
+ 
 ### 📊 Estatísticas
 
-<div align="center">
+
   <img
     height=165
     align="center"
