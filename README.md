@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Victor Hugo
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨🏻‍💻" width="25" height="25" /> Victor Hugo
 
 **`Business Intelligence `**
 
@@ -23,7 +23,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHFCosta&layout=compact&langs_count=16&theme=gotham&locale=pt-br"
   />
   <br>
-</div>
+
 
 ##
 
@@ -40,10 +40,15 @@
 
 ## 
 
-### Links
+### 
 
-<div> 
-  <a href = "mailto:victor35682@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-hugo-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fb/512.gif" alt="🤝" width="32" height="32"> Contatos: 
+
+
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:victor35682@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/costav_hugo/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/victor-hugo-ferreira/)
+  
+  </div>
+
