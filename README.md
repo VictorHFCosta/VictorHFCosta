@@ -1,3 +1,5 @@
+<div align="center">
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨🏻‍💻" width="25" height="25" /> Victor Hugo
 
 **`Business Intelligence `**
@@ -7,7 +9,7 @@
 
 
 ##
-<div align="center">
+
  
 ### 📊 Estatísticas
 
