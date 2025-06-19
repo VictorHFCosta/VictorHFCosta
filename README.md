@@ -21,7 +21,7 @@
     src="https://github-readme-stats.vercel.app/api?username=VictorHFCosta&show_icons=true&cache_seconds=86400&theme=gotham&locale=pt-br"
   />
   <img
-    height=165
+    height=130
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHFCosta&layout=compact&langs_count=16&theme=gotham&locale=pt-br"
